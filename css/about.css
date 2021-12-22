@@ -1,0 +1,5 @@
+.about__table, tr, th, td {
+    border: 1px solid #071013;
+    border-collapse: collapse;
+    padding: 5px;
+}

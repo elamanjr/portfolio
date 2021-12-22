@@ -1,0 +1,21 @@
+.main__div--input, .main__div--textarea {
+    display: block;
+    margin: 5px 0;
+    padding: 3px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.alternatives__li {
+    display: inline-block;
+}
+
+.alternatives img{
+    width: 40px;
+    height: 40px;
+}
+
+.form__legend {
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
